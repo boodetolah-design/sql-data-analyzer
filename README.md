@@ -19,7 +19,7 @@ This project reads preference data (such as programming languages and problem ty
 ├── fav.csv         # Raw CSV dataset
 └── sql.py          # Initial data reading script
 ```
-##USAGE
+#USAGE
 
 Run the data analysis script:
 python sql.py
