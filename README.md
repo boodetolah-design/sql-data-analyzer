@@ -22,4 +22,5 @@ This project reads preference data (such as programming languages and problem ty
 ## USAGE
 
 Run the data analysis script:
+```bash
 python sql.py
